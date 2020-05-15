@@ -1,0 +1,12 @@
+C:\Users\erenk\source\repos\Library\Library.Services\bin\Debug\netstandard2.0\Library.Services.deps.json
+C:\Users\erenk\source\repos\Library\Library.Services\bin\Debug\netstandard2.0\Library.Services.dll
+C:\Users\erenk\source\repos\Library\Library.Services\bin\Debug\netstandard2.0\Library.Services.pdb
+C:\Users\erenk\source\repos\Library\Library.Services\bin\Debug\netstandard2.0\Library.Core.dll
+C:\Users\erenk\source\repos\Library\Library.Services\bin\Debug\netstandard2.0\Library.Core.pdb
+C:\Users\erenk\source\repos\Library\Library.Services\obj\Debug\netstandard2.0\Library.Services.csprojAssemblyReference.cache
+C:\Users\erenk\source\repos\Library\Library.Services\obj\Debug\netstandard2.0\Library.Services.csproj.CoreCompileInputs.cache
+C:\Users\erenk\source\repos\Library\Library.Services\obj\Debug\netstandard2.0\Library.Services.AssemblyInfoInputs.cache
+C:\Users\erenk\source\repos\Library\Library.Services\obj\Debug\netstandard2.0\Library.Services.AssemblyInfo.cs
+C:\Users\erenk\source\repos\Library\Library.Services\obj\Debug\netstandard2.0\Library.Services.csproj.CopyComplete
+C:\Users\erenk\source\repos\Library\Library.Services\obj\Debug\netstandard2.0\Library.Services.dll
+C:\Users\erenk\source\repos\Library\Library.Services\obj\Debug\netstandard2.0\Library.Services.pdb
