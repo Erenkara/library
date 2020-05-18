@@ -6,6 +6,7 @@ ingredients :)
   - Entity Framework (Code First)
   - Repository and  Unit of work design pattern 
   - Auto Mapper
+  - JWT(Json Web token)
   - Fluent Validation
   - Swagger
   
