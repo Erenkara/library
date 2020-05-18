@@ -3,6 +3,7 @@ using Library.Api.Resources;
 using Library.Api.Validators;
 using Library.Core;
 using Library.Core.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,8 @@ using System.Threading.Tasks;
 
 namespace Library.Api.Controllers
 {
+
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class BooksController:ControllerBase
@@ -23,6 +26,7 @@ namespace Library.Api.Controllers
             this._mapper = mapper;
 
         }
+        [Authorize]
         [HttpGet("")]
         public async Task<ActionResult<IEnumerable<Book>>> GetAllBooks()
         {

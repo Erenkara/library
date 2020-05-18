@@ -1,6 +1,7 @@
 C:\Users\erenk\source\repos\Library\Library.Core\bin\Debug\netstandard2.0\Library.Core.deps.json
 C:\Users\erenk\source\repos\Library\Library.Core\bin\Debug\netstandard2.0\Library.Core.dll
 C:\Users\erenk\source\repos\Library\Library.Core\bin\Debug\netstandard2.0\Library.Core.pdb
+C:\Users\erenk\source\repos\Library\Library.Core\obj\Debug\netstandard2.0\Library.Core.csprojAssemblyReference.cache
 C:\Users\erenk\source\repos\Library\Library.Core\obj\Debug\netstandard2.0\Library.Core.csproj.CoreCompileInputs.cache
 C:\Users\erenk\source\repos\Library\Library.Core\obj\Debug\netstandard2.0\Library.Core.AssemblyInfoInputs.cache
 C:\Users\erenk\source\repos\Library\Library.Core\obj\Debug\netstandard2.0\Library.Core.AssemblyInfo.cs
