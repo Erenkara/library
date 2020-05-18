@@ -11,4 +11,6 @@ ingredients :)
   - Swagger
   
 
-Reference : https://medium.com/swlh/building-a-nice-multi-layer-net-core-3-api-c68a9ef16368
+References :
+-https://medium.com/swlh/building-a-nice-multi-layer-net-core-3-api-c68a9ef16368
+-https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
